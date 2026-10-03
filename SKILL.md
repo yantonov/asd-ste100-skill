@@ -1,7 +1,6 @@
 ---
 name: asd-ste100
 description: "Use this skill to rewrite English text that a reader must understand without help. Use it for tool descriptions, error messages, agent instructions, system prompts, and status reports. Use it when a wrong reading causes damage, or when text is dense, hedged, or easy to misread. Triggers: STE100 rewrite, Simplified Technical English, plain-language rewrite, disambiguate."
-version: 0.4.0
 ---
 
 # Simplified Technical English (ASD-STE100)
