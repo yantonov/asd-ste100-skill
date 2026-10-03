@@ -1,6 +1,6 @@
 ---
 name: asd-ste100
-description: "Use when English text must be parsed without a human to resolve ambiguity — tool descriptions, error messages, inter-agent instructions, system prompts, status reports — and misreading has a real cost, or when text reads as dense, hedged, or easy to misparse. Triggers: disambiguate, STE100 rewrite, apply Simplified Technical English, plain-language rewrite, controlled-language rewrite, rewrite so an agent cannot misread this."
+description: "Use this skill to rewrite English text that a reader must understand without help. Use it for tool descriptions, error messages, agent instructions, system prompts, and status reports. Use it when a wrong reading causes damage, or when text is dense, hedged, or easy to misread. Triggers: STE100 rewrite, Simplified Technical English, plain-language rewrite, disambiguate."
 version: 0.4.0
 ---
 
